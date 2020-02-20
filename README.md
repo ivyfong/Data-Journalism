@@ -18,6 +18,11 @@ The interactive graph allows users to choose which data to display. Users can pi
 2. HTML/CSS
 
 ## **Screenshots:**
+Poverty vs. Lack of Healthcare
 ![graph1.png](images/graph_screenshot1.JPG)
+
+Age vs. Lack of Healthcare
 ![graph2.png](images/graph_screenshot2.JPG)
+
+Income vs. Smoking
 ![graph3.png](images/graph_screenshot3.JPG)
